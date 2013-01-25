@@ -1,21 +1,11 @@
-Robolectric
-===========
+# Deprecated
 
-**Note** This is a fork of Pivotal's Robolectric which is NOT compatible.
-Please see [their project][1] for the canonical source.
+**This fork of Robolectric by Square is now officially deprecated.**
 
+If you are still using this repository please take action immediately by either
+forking or switching to use the [Pivotal version][1].
 
-
-Compilation
------------
-
-Maven version 3 or newer is required.
-
-```
-mvn clean package
-```
+This GitHub project will be deleted on February 25th, 2013.
 
 
-
-
- [1]: http://pivotal.github.com/robolectric
+ [1]: https://github.com/pivotal/robolectric
